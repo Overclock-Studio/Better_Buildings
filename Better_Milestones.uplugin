@@ -23,7 +23,7 @@
 		{
 			"Name": "Better_Recipes_x10",
 			"Enabled": true,
-			"SemVersion": ">=1.1.25"
+			"SemVersion": ">=1.2.0"
 		}
 	],
 	"SemVersion": "1.0.0",
